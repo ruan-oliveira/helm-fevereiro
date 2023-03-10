@@ -96,3 +96,9 @@ configMap:
   create: false # esse eh o padrao
   data: {}
     # VAR: VALOR1
+
+ruan: 
+  enabled: false
+
+grafana: 
+  enabled: false
